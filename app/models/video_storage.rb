@@ -1,0 +1,3 @@
+class VideoStorage < FileStorage
+
+end
